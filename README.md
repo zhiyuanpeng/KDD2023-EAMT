@@ -5,7 +5,7 @@
 </div>
 
 # News
-Code is currently under review and will come soon!
+12/14/2023: code review is done and approved by Walmart QU team. In the process of being released!
 # What is it?
 This repo contains multi-task models: MTDNN, MMoE and PLE as well as their corresponding EAMT versions: EAMT_MTDNN, EAMT_MMoE, and EAMT_PLE. EAMT models are built on basic multi-task models as shown in the following figure:
 
